@@ -25,7 +25,7 @@ h1{display: flex;
 }
 .box{
     height:15vh;
-    width: 19vw;
+    width: 15vw;
     border-radius:5% ;
     box-shadow: 0px 2px;
     border-color: rgba(0, 0, 0, 0.356);
